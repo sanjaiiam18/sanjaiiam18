@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hi, I'm Sanjai!<br>A passionate AI Engineer, Full-Stack Developer, and Software Developer skilled in Generative AI, React, Next.js, Python, and React Native. I love building intelligent applications and innovative solutions that make an impact. 🚀
+🚀 Hi, I'm Sanjai!<br>A passionate AI Engineer, Full-Stack Developer, and Software Developer skilled in Generative AI, React, Next.js, Python, and React Native,Go. I love building intelligent applications and innovative solutions that make an impact. 🚀
 
 
 ## 🌐 Socials:
